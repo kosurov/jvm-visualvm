@@ -32,3 +32,5 @@ Please open 'ru.netology.JvmExperience' in VisualVm
 
 ## 15:14:08.882018100: created
 
+![Heap-2](pic/Heap-2.png)
+
