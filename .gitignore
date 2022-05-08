@@ -1,0 +1,12 @@
+# Системные
+Thumbs.db
+
+# Intellij
+.idea/
+
+# Gradle
+.gradle/
+build/
+
+# Дополнительно
+jvm-visualvm-experience/
